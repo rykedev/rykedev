@@ -26,7 +26,11 @@
 
 ### 📅 Visão Geral e Tempo de Atividade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rykedev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas Gerais do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rykedev&theme=tokyonight" alt="Estatísticas Gerais" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rykedev&theme=tokyonight" alt="Detalhes do Perfil" />
 </p>
 
 ### 🔥 Sequência de Contribuições (Dias Consecutivos Ativo)
