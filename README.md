@@ -2,7 +2,7 @@
 <h3 align="center">vivo por codigos cmd, visualG, visual studio e Linux 🐧</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/L5r64S0/pacman-erick.gif" alt="Pac-Man comendo as palavras e depois fugindo dos fantasmas" width="700" />
+  <img src="https://i.ibb.co/6P0J97d/pacman-text-pellets-erick.gif" alt="Pac-Man comendo o texto como bolinhas" width="750" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ## 📊 Minhas Estatísticas do GitHub
 
-Lembre-se de substituir `rykedev` pelo seu nome de usuário real.
+Lembre-se de substituir `SEU_USUARIO_AQUI` pelo seu nome de usuário real.
 
 ### 📅 Visão Geral e Tempo de Atividade
 <p align="center">
@@ -39,5 +39,5 @@ Lembre-se de substituir `rykedev` pelo seu nome de usuário real.
 ---
 
 <p align="center">
-nerd por amor.
+  nerd por amor.
 </p>
