@@ -19,7 +19,7 @@
 
 ## 📊 Minhas Estatísticas do GitHub
 
-Lembre-se de substituir `SEU_USUARIO_AQUI` pelo seu nome de usuário real.
+`rykedev`
 
 ### 📅 Visão Geral e Tempo de Atividade
 <p align="center">
