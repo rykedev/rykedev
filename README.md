@@ -9,9 +9,11 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
+## 🛠️ Tecnologias e Ferramentas
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,linux,visualstudio,git,github,bash,md&theme=dark&perline=12" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=pr,apple,discord,instagram,py,robloxstudio,twitter,vscode,xd,unreal,windows,unity,ps" alt="Minhas Tecnologias" />
   </a>
 </p>
 
