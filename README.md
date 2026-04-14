@@ -26,21 +26,18 @@
 
 ### 📅 Visão Geral e Tempo de Atividade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas Gerais do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rykedev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas Gerais do GitHub" />
 </p>
 
 ### 🔥 Sequência de Contribuições (Dias Consecutivos Ativo)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rykedev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 ### 💻 Linguagens Mais Utilizadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-</p>
-
----
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rykedev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
+</p> 
 <p align="center">
   nerd por amor.
 </p>
