@@ -38,10 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=rykedev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
-### 💻 Linguagens Mais Utilizadas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rykedev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-</p> 
-<p align="center">
-  nerd por amor.
+
+### nerd por amor.
 </p>
