@@ -39,5 +39,5 @@
 </p>
 
 
-### nerd por amor.
+###
 </p>
